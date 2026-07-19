@@ -1,0 +1,14 @@
+*.gem
+.bundle
+.sass-cache
+.jekyll-cache
+_site
+vendor
+Gemfile.lock
+.DS_Store
+_Gemfile.disabled
+screen1.png
+screen2.png
+미리보기시작.command
+편집가이드.md
+assets/downloads/figure-creator/FigureCreator-v7-macOS-AppleSilicon.zip
