@@ -1,11 +1,12 @@
 title: Won-Young Choi
+tagline: Spintronics Researcher
 author: Won-Young Choi
 email: 92wonychoi@kist.re.kr
 description: Ph.D. Candidate in Materials Science & Engineering at Seoul National University and Student Researcher at KIST. Research areas include spintronics, spin-orbit torques, spin transport, and magnetic materials.
 
 show_excerpts: false
 baseurl: ""
-url: ""
+url: "https://shr0eq.github.io"
 
 sass:
   sass_dir: _sass

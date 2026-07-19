@@ -2,6 +2,7 @@
 layout: page
 title: Curriculum Vitae
 permalink: /cv/
+description: Curriculum vitae of Won-Young Choi, Ph.D. candidate at Seoul National University and student researcher at KIST.
 ---
 
 <img class="cv-photo" src="/assets/images/profile.jpeg" alt="Won-Young Choi" />

@@ -2,6 +2,7 @@
 layout: page
 title: Project
 permalink: /project/
+description: Research projects in spintronics and Figure Creator v7, a macOS application for publication-ready scientific figures.
 ---
 
 ## Research {#research}

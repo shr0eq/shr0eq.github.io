@@ -2,6 +2,7 @@
 layout: page
 title: Contact
 permalink: /contact/
+description: Contact Won-Young Choi for spintronics research collaborations, scientific software, and related inquiries.
 ---
 
 ## Contact

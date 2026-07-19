@@ -2,6 +2,7 @@
 layout: page
 title: Publications
 permalink: /publications/
+description: Journal articles and conference presentations by Won-Young Choi on spintronics, spin-orbit torques, spin transport, and magnetic materials.
 ---
 
 ## Publications <a class="title-link" href="https://scholar.google.com/citations?user=NDs_xlsAAAAJ&hl=en" target="_blank" rel="noopener">Google Scholar &#8599;</a>

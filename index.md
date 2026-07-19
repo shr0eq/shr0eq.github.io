@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Won-Young Choi
+description: Personal research website of Won-Young Choi, a spintronics researcher working on spin-orbit torques, spin transport, magnons, and magnetic thin films.
 ---
 
 ## About

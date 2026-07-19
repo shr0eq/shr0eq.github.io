@@ -2,6 +2,7 @@
 layout: page
 title: News & Gallery
 permalink: /news/
+description: Research news, awards, conference activities, software releases, and gallery updates from Won-Young Choi.
 ---
 
 ## News &amp; Gallery
