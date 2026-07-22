@@ -39,7 +39,7 @@ description: Curriculum vitae of Won-Young Choi, Ph.D. candidate at Seoul Nation
 *† co-first author*
 
 1. **W.-Y. Choi†**, J.-H. Ha†, et al. Magnetization switching driven by magnonic spin dissipation. *Nature Communications* **16**, 5859 (2025).
-2. F. Kammerbauer, **W.-Y. Choi**, et al. Controlling 3D spin textures by manipulating sign and amplitude of interlayer DMI with electrical current. *Nano Letters* **23**, 15, 7070–7075 (2023).
+2. F. Kammerbauer, **W.-Y. Choi**, et al. Controlling the Interlayer Dzyaloshinskii–Moriya Interaction by Electrical Currents. *Nano Letters* **23**, 15, 7070–7075 (2023).
 3. **W.-Y. Choi**, et al. Emergence of the topological Hall effect in a tetragonal compensated ferrimagnet Mn₂.₃Pd₀.₇Ga. *NPG Asia Materials* **13**, 79 (2021).
 4. **W.-Y. Choi**, et al. Proximity-Induced Magnetism Enhancement Emerged in Chiral Magnet MnSi / Topological Insulator Bi₂Se₃ Bilayer. *Advanced Quantum Technologies* **4**, 2000124 (2021).
 5. **W.-Y. Choi**, et al. Skyrmion Phase in MnSi Thin Films Grown on Sapphire by a Conventional Sputtering. *Nanoscale Research Letters* **16**, 7 (2021).
