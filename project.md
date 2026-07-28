@@ -2,7 +2,7 @@
 layout: page
 title: Project
 permalink: /project/
-description: Research projects in spintronics and Figure Creator v7, a macOS application for publication-ready scientific figures.
+description: Research projects in spintronics, Figure Creator v7, and a macrospin magnetization dynamics simulator.
 ---
 
 ## Research {#research}
@@ -59,6 +59,33 @@ in magnetic thin film heterostructures.
       <strong>System requirement:</strong> Apple Silicon Mac (M1 or later).
       The current build is not notarized; follow the first-launch instructions in the manual to allow it in
       <em>System Settings → Privacy &amp; Security</em>.
+    </p>
+  </div>
+</div>
+
+<div class="project-feature project-feature--secondary">
+  <div class="project-feature__header">
+    <div class="project-feature__eyebrow">In Development · Python</div>
+    <h3>Macrospin Simulator</h3>
+  </div>
+  <div class="project-feature__gallery">
+    <figure>
+      <img src="/assets/images/project/macrospin-simulator/ima-trajectory.png" alt="Simulated in-plane magnetization trajectory on a Bloch sphere" />
+      <figcaption>In-plane magnetization trajectory</figcaption>
+    </figure>
+    <figure>
+      <img src="/assets/images/project/macrospin-simulator/precession-demo.gif" alt="Animated macrospin precession around an applied magnetic field" />
+      <figcaption>Macrospin precession dynamics</figcaption>
+    </figure>
+  </div>
+  <div class="project-feature__body">
+    <p class="project-feature__lead">
+      A desktop simulator for exploring magnetization dynamics within the macrospin approximation.
+      It numerically solves the Landau–Lifshitz–Gilbert equation and visualizes precession,
+      spin–orbit-torque switching, and time-resolved trajectories.
+    </p>
+    <p class="project-feature__note">
+      Currently under active development.
     </p>
   </div>
 </div>
