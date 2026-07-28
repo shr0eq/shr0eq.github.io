@@ -27,7 +27,7 @@ description: Curriculum vitae of Won-Young Choi, Ph.D. candidate at Seoul Nation
 
 ## Research & Work Experience {#experience}
 
-- **Mar. 2023 – Present** – **Student Researcher**, Center for Spintronics, KIST, Seoul, Korea
+- **Mar. 2023 – Present** – **Student Researcher**, Center for Semiconductor Technology, KIST, Seoul, Korea
 - **Oct. 2021 – Feb. 2023** – **Research Intern**, Center for Spintronics, KIST, Seoul, Korea 
 - **Mar. 2021 – Aug. 2021** – **Visiting Researcher**, Kläui Lab, Johannes Gutenberg-Universität Mainz (JGU), Germany
 - **Mar. 2019 – Jun. 2020** – **Teaching Assistant**, Sogang University, Seoul, Korea
@@ -60,4 +60,4 @@ See the [full publication list &rarr;]({{ '/publications/' | relative_url }})
 - **Jan. 2018** — Dean's List Award (Top 3%), Sogang University
 - **2016–2017** — Honors Scholarship ($2,100), Sogang University
 
-<p style="margin-top:24px"><a href="/assets/CV_WYC_20260724.pdf" target="_blank" rel="noopener">Download full CV (PDF) &rarr;</a></p>
+<p style="margin-top:24px"><a href="/assets/CV_WYC_20260729.pdf" target="_blank" rel="noopener">Download full CV (PDF) &rarr;</a></p>
