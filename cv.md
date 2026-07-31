@@ -60,4 +60,4 @@ See the [full publication list &rarr;]({{ '/publications/' | relative_url }})
 - **Jan. 2018** — Dean's List Award (Top 3%), Sogang University
 - **2016–2017** — Honors Scholarship ($2,100), Sogang University
 
-<p style="margin-top:24px"><a href="/assets/CV_WYC.pdf?v=20260731" target="_blank" rel="noopener">Download full CV (PDF) &rarr;</a></p>
+<p style="margin-top:24px"><a href="/assets/CV_WYC.pdf?v=20260731-2" target="_blank" rel="noopener">Download full CV (PDF) &rarr;</a></p>
