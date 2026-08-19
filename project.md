@@ -87,8 +87,14 @@ in magnetic thin film heterostructures.
       It numerically solves the Landau–Lifshitz–Gilbert equation and visualizes precession,
       spin–orbit-torque switching, and time-resolved trajectories.
     </p>
+    <div class="project-downloads">
+      <a class="download-btn" href="https://github.com/shr0eq/MacrospinSimulator">
+        View on GitHub <span>Source · MIT</span>
+      </a>
+    </div>
     <p class="project-feature__note">
-      Currently under active development.
+      Currently under active development — the AFM (antiferromagnet) mode is
+      incomplete; the FM feature set is validated and stable.
     </p>
   </div>
 </div>
