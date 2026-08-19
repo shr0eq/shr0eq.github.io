@@ -7,6 +7,20 @@ description: Research news, awards, conference activities, software releases, an
 
 ## News &amp; Gallery
 
+<div class="news-item" id="n-2026-08-20">
+  <span class="news-date">2026-08-20</span>
+  <h3>TopDock v0.1 for macOS Released</h3>
+  <div class="figure-row">
+    <figure>
+      <video src="/assets/images/project/topdock/notchhub-demo.mp4"
+             poster="/assets/images/project/topdock/notchhub-panel.png"
+             autoplay loop muted playsinline
+             aria-label="TopDock demo showing the notch-triggered folder and app launcher"></video>
+    </figure>
+  </div>
+  <p>I released <strong>TopDock v0.1</strong>, a native macOS menu-bar utility that turns the MacBook notch—or the top-center of an external display—into a quick launcher for folders and apps. The panel can be opened by pushing the cursor into the hotspot, pressing &#8997;Space, or using the menu-bar icon. It supports in-panel folder navigation, search, sorting, Quick Look, drag-and-drop file handling, multiple workspaces, and Korean/English interfaces. The Apple Silicon build for macOS 14 or later is available from the <a href="/project/#develop">Project page</a>.</p>
+</div>
+
 <div class="news-item" id="n-2026-07-19">
   <span class="news-date">2026-07-19</span>
   <h3>Figure Creator v7 for macOS Released</h3>
