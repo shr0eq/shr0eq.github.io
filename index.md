@@ -23,7 +23,6 @@ and magnonic effects in magnetic thin film heterostructures.
   <li><span class="n-date">2026-07-01</span><a class="n-title" href="{{ '/news/#n-2026-07-01' | relative_url }}">STAR Outstanding Graduate Student Award, KMS 2026</a></li>
   <li><span class="n-date">2025-12-17</span><a class="n-title" href="{{ '/news/#n-2025-12-17' | relative_url }}">Excellent Student Researcher Award, KIST 2025</a></li>
   <li><span class="n-date">2025-10-29</span><a class="n-title" href="{{ '/news/#n-2025-10-29' | relative_url }}">Invited Talk at the 70th Annual 2025 MMM Conference</a></li>
-  <li><span class="n-date">2025-10-22</span><a class="n-title" href="{{ '/news/#n-2025-10-22' | relative_url }}">Condensed Matter Physics MSM Award, 2025 KPS Fall Meeting</a></li>
 </ul>
 
 <p style="margin-top:16px"><a href="{{ '/news/' | relative_url }}">See all news &rarr;</a></p>
