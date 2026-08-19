@@ -54,6 +54,9 @@ in magnetic thin film heterostructures.
       <a class="download-btn" href="/assets/downloads/figure-creator/Figure_Creator_v7_Manual_KO.pdf">
         Korean Manual <span>PDF</span>
       </a>
+      <a class="download-btn" href="https://github.com/shr0eq/FigureCreator">
+        View on GitHub <span>Source · MIT</span>
+      </a>
     </div>
     <p class="project-feature__note">
       <strong>System requirement:</strong> Apple Silicon Mac (M1 or later).
@@ -116,6 +119,9 @@ in magnetic thin film heterostructures.
     <div class="project-downloads">
       <a class="download-btn download-btn--primary" href="/assets/downloads/topdock/TopDock-0.1.0.zip">
         Download for macOS <span>ZIP · 0.6 MB</span>
+      </a>
+      <a class="download-btn" href="https://github.com/shr0eq/TopDock">
+        View on GitHub <span>Source · MIT</span>
       </a>
     </div>
     <p class="project-feature__note">
