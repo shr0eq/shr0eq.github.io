@@ -116,7 +116,8 @@ in magnetic thin film heterostructures.
     </div>
     <p class="project-feature__note">
       <strong>System requirement:</strong> Apple Silicon Mac, macOS 14 or later.
-      The build is not notarized; on first launch, right-click the app and choose <em>Open</em>.
+      The build is not notarized, so macOS blocks the first launch: open
+      <em>System Settings &rarr; Privacy &amp; Security</em>, scroll down, and click <em>Open Anyway</em>.
       Built with SwiftUI/AppKit, assisted by Claude Code.
     </p>
   </div>
