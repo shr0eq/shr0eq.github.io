@@ -95,7 +95,11 @@ in magnetic thin film heterostructures.
     <div class="project-feature__eyebrow">macOS · Version 0.1</div>
     <h3>NotchHub</h3>
   </div>
-  <img class="project-feature__image" src="/assets/images/project/notchhub/notchhub-panel.png" alt="NotchHub floating panel showing folder shortcuts below the MacBook notch" />
+  <video class="project-feature__image" autoplay loop muted playsinline
+         poster="/assets/images/project/notchhub/notchhub-panel.png"
+         aria-label="NotchHub demo: pushing the cursor into the notch opens a floating panel, browsing a folder, and the panel hides when the cursor leaves">
+    <source src="/assets/images/project/notchhub/notchhub-demo.mp4" type="video/mp4" />
+  </video>
   <div class="project-feature__body">
     <p class="project-feature__lead">
       A native menu-bar utility that turns the MacBook notch into a quick launcher:
