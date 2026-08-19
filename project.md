@@ -2,7 +2,7 @@
 layout: page
 title: Project
 permalink: /project/
-description: Research projects in spintronics, Figure Creator v7, and a macrospin magnetization dynamics simulator.
+description: Research projects in spintronics, Figure Creator v7, a macrospin magnetization dynamics simulator, and NotchHub.
 ---
 
 ## Research {#research}
@@ -86,6 +86,38 @@ in magnetic thin film heterostructures.
     </p>
     <p class="project-feature__note">
       Currently under active development.
+    </p>
+  </div>
+</div>
+
+<div class="project-feature project-feature--secondary">
+  <div class="project-feature__header">
+    <div class="project-feature__eyebrow">macOS · Version 0.1</div>
+    <h3>NotchHub</h3>
+  </div>
+  <img class="project-feature__image" src="/assets/images/project/notchhub/notchhub-panel.png" alt="NotchHub floating panel showing folder shortcuts below the MacBook notch" />
+  <div class="project-feature__body">
+    <p class="project-feature__lead">
+      A native menu-bar utility that turns the MacBook notch into a quick launcher:
+      push the cursor into the notch (or press &#8997;Space) and a floating panel of
+      your folders and apps appears — launch, browse, and file things away without
+      leaving the current app.
+    </p>
+    <ul class="project-feature__list">
+      <li>Trigger by shoving the cursor into the notch, the top-center of external displays, or a global hotkey</li>
+      <li>In-panel folder browsing with search, sorting, and Quick Look preview</li>
+      <li>Drag &amp; drop both ways — drop a file onto a folder tile to copy it there in one motion</li>
+      <li>Multiple workspaces for different sets of folders, Korean and English interface</li>
+    </ul>
+    <div class="project-downloads">
+      <a class="download-btn download-btn--primary" href="/assets/downloads/notchhub/NotchHub-0.1.0.zip">
+        Download for macOS <span>ZIP · 0.6 MB</span>
+      </a>
+    </div>
+    <p class="project-feature__note">
+      <strong>System requirement:</strong> Apple Silicon Mac, macOS 14 or later.
+      The build is not notarized; on first launch, right-click the app and choose <em>Open</em>.
+      Built with SwiftUI/AppKit, assisted by Claude Code.
     </p>
   </div>
 </div>
