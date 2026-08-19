@@ -2,7 +2,7 @@
 layout: page
 title: Project
 permalink: /project/
-description: Research projects in spintronics, Figure Creator v7, a macrospin magnetization dynamics simulator, and NotchHub.
+description: Research projects in spintronics, Figure Creator v7, a macrospin magnetization dynamics simulator, and TopDock.
 ---
 
 ## Research {#research}
@@ -93,12 +93,12 @@ in magnetic thin film heterostructures.
 <div class="project-feature project-feature--secondary">
   <div class="project-feature__header">
     <div class="project-feature__eyebrow">macOS · Version 0.1</div>
-    <h3>NotchHub</h3>
+    <h3>TopDock</h3>
   </div>
   <video class="project-feature__image" autoplay loop muted playsinline
-         poster="/assets/images/project/notchhub/notchhub-panel.png"
-         aria-label="NotchHub demo: pushing the cursor into the notch opens a floating panel, browsing a folder, and the panel hides when the cursor leaves">
-    <source src="/assets/images/project/notchhub/notchhub-demo.mp4" type="video/mp4" />
+         poster="/assets/images/project/topdock/notchhub-panel.png"
+         aria-label="TopDock demo: pushing the cursor into the notch opens a floating panel, browsing a folder, and the panel hides when the cursor leaves">
+    <source src="/assets/images/project/topdock/notchhub-demo.mp4" type="video/mp4" />
   </video>
   <div class="project-feature__body">
     <p class="project-feature__lead">
@@ -114,7 +114,7 @@ in magnetic thin film heterostructures.
       <li>Multiple workspaces for different sets of folders, Korean and English interface</li>
     </ul>
     <div class="project-downloads">
-      <a class="download-btn download-btn--primary" href="/assets/downloads/notchhub/NotchHub-0.1.0.zip">
+      <a class="download-btn download-btn--primary" href="/assets/downloads/topdock/TopDock-0.1.0.zip">
         Download for macOS <span>ZIP · 0.6 MB</span>
       </a>
     </div>
