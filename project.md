@@ -45,13 +45,13 @@ in magnetic thin film heterostructures.
       <li>English and Korean interface with searchable settings</li>
     </ul>
     <div class="project-downloads">
-      <a class="download-btn download-btn--primary" href="https://github.com/shr0eq/shr0eq.github.io/releases/download/figure-creator-v7/FigureCreator-v7-macOS-AppleSilicon.zip">
+      <a class="download-btn download-btn--primary" href="https://github.com/shr0eq/FigureCreator/releases/download/v7.0.0/FigureCreator-v7-macOS-AppleSilicon.zip">
         Download for macOS <span>ZIP · 67 MB</span>
       </a>
-      <a class="download-btn" href="/assets/downloads/figure-creator/Figure_Creator_v7_Manual_EN.pdf">
+      <a class="download-btn" href="https://github.com/shr0eq/FigureCreator/releases/download/v7.0.0/Figure_Creator_v7_Manual_EN.pdf">
         English Manual <span>PDF</span>
       </a>
-      <a class="download-btn" href="/assets/downloads/figure-creator/Figure_Creator_v7_Manual_KO.pdf">
+      <a class="download-btn" href="https://github.com/shr0eq/FigureCreator/releases/download/v7.0.0/Figure_Creator_v7_Manual_KO.pdf">
         Korean Manual <span>PDF</span>
       </a>
       <a class="download-btn" href="https://github.com/shr0eq/FigureCreator">
@@ -123,7 +123,7 @@ in magnetic thin film heterostructures.
       <li>Multiple workspaces for different sets of folders, Korean and English interface</li>
     </ul>
     <div class="project-downloads">
-      <a class="download-btn download-btn--primary" href="/assets/downloads/topdock/TopDock-0.1.0.zip">
+      <a class="download-btn download-btn--primary" href="https://github.com/shr0eq/TopDock/releases/download/v0.1.0/TopDock-0.1.0.zip">
         Download for macOS <span>ZIP · 0.6 MB</span>
       </a>
       <a class="download-btn" href="https://github.com/shr0eq/TopDock">
