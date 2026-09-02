@@ -2,7 +2,7 @@
 layout: page
 title: Project
 permalink: /project/
-description: Research projects in spintronics, Figure Creator v7, a macrospin magnetization dynamics simulator, and TopDock.
+description: Research projects in spintronics, a second-harmonic Hall SOT analyzer, Figure Creator v7, a macrospin magnetization dynamics simulator, and TopDock.
 ---
 
 ## Research {#research}
@@ -28,6 +28,24 @@ in magnetic thin film heterostructures.
 ## Develop {#develop}
 
 <div class="project-feature">
+  <div class="project-feature__header">
+    <div class="project-feature__eyebrow">Research Tool · IMA/PMA · Python</div>
+    <h3>Second-harmonic Hall SOT Analyzer</h3>
+  </div>
+  <img class="project-feature__image" src="/assets/images/project/sot-analyzer-gui-en.png" alt="English interface of the second-harmonic Hall SOT Analyzer showing analysis settings and extracted torque efficiencies" />
+  <div class="project-feature__body">
+    <p class="project-feature__lead">
+      A desktop tool for extracting x-, y-, and z-spin damping-like and field-like
+      torque efficiencies from angular first- and second-harmonic Hall measurements.
+      It supports both in-plane and perpendicular magnetic anisotropy samples.
+    </p>
+    <p class="project-feature__note">
+      The application and source code are available upon request.
+    </p>
+  </div>
+</div>
+
+<div class="project-feature project-feature--secondary">
   <div class="project-feature__header">
     <div class="project-feature__eyebrow">macOS · Version 7</div>
     <h3>Figure Creator</h3>
