@@ -5,7 +5,8 @@ permalink: /cv/
 description: Curriculum vitae of Won-Young Choi, Ph.D. candidate at Seoul National University and student researcher at KIST.
 ---
 
-<img class="cv-photo" src="/assets/images/profile.jpeg" alt="Won-Young Choi" />
+<section class="cv-intro">
+<div class="cv-intro__content" markdown="1">
 
 ## Curriculum Vitae
 
@@ -24,6 +25,12 @@ description: Curriculum vitae of Won-Young Choi, Ph.D. candidate at Seoul Nation
 - **Mar. 2012 – Feb. 2019** — **B.S. in Physics** | Sogang University, Seoul, Korea <br>
 · Summa Cum Laude (3 of 24)<br>
 · Dean's List (2017)
+
+</div>
+<div class="cv-intro__photo">
+  <img class="cv-photo" src="/assets/images/profile-2.jpeg" alt="Won-Young Choi" />
+</div>
+</section>
 
 ## Research & Work Experience {#experience}
 
