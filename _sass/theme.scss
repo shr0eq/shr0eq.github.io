@@ -345,6 +345,76 @@ header .social {
 	}
 }
 
+// Project page category tabs
+.project-tabs {
+	display: none;
+	gap: 6px;
+	margin: 24px 0 34px;
+	padding-bottom: 0;
+	border-bottom: 1px solid #dcdcdc;
+}
+
+.project-tabs.is-ready { display: flex; }
+
+.project-tab {
+	appearance: none;
+	margin: 0 0 -1px;
+	padding: 11px 20px 12px;
+	border: 0;
+	border-bottom: 3px solid transparent;
+	background: transparent;
+	color: #777;
+	font: inherit;
+	font-size: 16px;
+	font-weight: 700;
+	cursor: pointer;
+	transition: color .2s ease, border-color .2s ease;
+
+	&:hover { color: #222; }
+	&:focus-visible { outline: 2px solid #1f5b96; outline-offset: 2px; }
+	&.is-active { color: #0b2545; border-bottom-color: #0b2545; }
+}
+
+.project-tab-panel[hidden] { display: none; }
+
+.research-feature {
+	padding: 4px 0 42px;
+	margin-bottom: 38px;
+	border-bottom: 1px solid #e6e6e6;
+}
+
+.research-feature:last-child {
+	margin-bottom: 6px;
+	border-bottom: 0;
+}
+
+.research-feature__header h3 {
+	margin: 5px 0 20px;
+	font-size: 30px;
+}
+
+.research-feature__media video {
+	display: block;
+	width: 100%;
+	aspect-ratio: 16 / 9;
+	object-fit: cover;
+	background: #07101f;
+	border-radius: 4px;
+	box-shadow: 0 5px 18px rgba(7, 16, 31, .18);
+}
+
+.research-feature__body {
+	margin-top: 24px;
+	max-width: 820px;
+}
+
+.research-feature__list { margin-bottom: 0; }
+
+@media screen and (max-width: 760px) {
+	.project-tab { flex: 1 1 0; text-align: center; }
+	.research-feature__header h3 { font-size: 27px; }
+}
+
 // Featured software project, aligned with the theme's simple editorial layout
 .project-feature {
 	margin: 22px 0 44px;

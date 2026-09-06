@@ -2,31 +2,79 @@
 layout: page
 title: Project
 permalink: /project/
-description: Research projects in spintronics, a second-harmonic Hall SOT analyzer, Figure Creator v7, a macrospin magnetization dynamics simulator, and TopDock.
+description: Research in magnon and spin-phonon transport, alongside scientific software and research tools developed by Won-Young Choi.
 ---
 
-## Research {#research}
+## Projects
 
-My research centers on spin-orbit torques, magnonic effects, and spin transport
-in magnetic thin film heterostructures.
+Explore my work across fundamental spin-transport research and scientific software development.
 
-<div class="figure-row">
-  <figure>
-    <img src="/assets/images/project/research-field-free.jpg" alt="Field-free Magnetization Switching" />
-    <figcaption>Field-free Magnetization Switching</figcaption>
-  </figure>
-  <figure>
-    <img src="/assets/images/project/research-phonon-magnon.jpg" alt="Phonon–Magnon Interaction" />
-    <figcaption>Spin–Phonon Interaction</figcaption>
-  </figure>
-  <figure>
-    <img src="/assets/images/project/research-self-torque.jpg" alt="Self-generated Spin Torque via Magnonic Spin Dissipation" />
-    <figcaption>Self-generated Spin Torque via Magnonic Spin Dissipation</figcaption>
-  </figure>
+<div class="project-tabs" role="tablist" aria-label="Project categories" data-project-tabs>
+  <button class="project-tab is-active" type="button" role="tab" id="tab-research"
+          aria-selected="true" aria-controls="panel-research" tabindex="0">Research</button>
+  <button class="project-tab" type="button" role="tab" id="tab-develop"
+          aria-selected="false" aria-controls="panel-develop" tabindex="-1">Develop</button>
 </div>
 
-## Develop {#develop}
+<section class="project-tab-panel" id="panel-research" role="tabpanel"
+         aria-labelledby="tab-research" data-project-panel="research">
+  <article class="research-feature">
+    <div class="research-feature__header">
+      <div class="project-feature__eyebrow">Antiferromagnets · Magnonics · Spin Torque</div>
+      <h3>Magnon Transport</h3>
+    </div>
+    <div class="research-feature__media">
+      <video autoplay loop muted playsinline controls preload="metadata"
+             poster="/assets/images/project/research/magnon-transport-coherent-poster.jpg"
+             aria-label="Animation of coherent antiferromagnetic magnon transport with spin polarization parallel to the Néel vector">
+        <source src="/assets/images/project/research/magnon-transport-coherent.mp4" type="video/mp4" />
+      </video>
+    </div>
+    <div class="research-feature__body">
+        <p class="project-feature__lead">
+          Magnons—collective excitations of ordered spins—can carry angular momentum
+          through electrically insulating antiferromagnets. My research examines how
+          the Néel-vector orientation and magnon coherence govern spin transmission
+          across antiferromagnet/ferromagnet heterostructures.
+        </p>
+        <ul class="project-feature__list research-feature__list">
+          <li>Spin-polarization filtering by antiferromagnetic order</li>
+          <li>Magnon-mediated spin–orbit torque and magnetization switching</li>
+          <li>Low-dissipation transport for energy-efficient spintronic devices</li>
+        </ul>
+    </div>
+  </article>
 
+  <article class="research-feature">
+    <div class="research-feature__header">
+      <div class="project-feature__eyebrow">Spin–Lattice Coupling · Thermal Transport</div>
+      <h3>Spin–Phonon Transport</h3>
+    </div>
+    <div class="research-feature__media">
+      <video autoplay loop muted playsinline controls preload="metadata"
+             poster="/assets/images/project/research/spin-phonon-transport-poster.jpg"
+             aria-label="Animation illustrating angular-momentum transfer from electron spin to lattice vibrations">
+        <source src="/assets/images/project/research/spin-phonon-transport.mp4" type="video/mp4" />
+      </video>
+    </div>
+    <div class="research-feature__body">
+        <p class="project-feature__lead">
+          Spin–phonon coupling links electronic spin dynamics to lattice vibrations,
+          enabling angular momentum and energy to move between spin and phonon channels.
+          I study how this conversion influences nonequilibrium spin flow, damping, and
+          thermal transport in magnetic heterostructures.
+        </p>
+        <ul class="project-feature__list research-feature__list">
+          <li>Angular-momentum exchange between spins and the lattice</li>
+          <li>Separation of electronic, magnonic, and phononic signals</li>
+          <li>Thermal pathways for controlling spin transport and device response</li>
+        </ul>
+    </div>
+  </article>
+</section>
+
+<section class="project-tab-panel" id="panel-develop" role="tabpanel"
+         aria-labelledby="tab-develop" data-project-panel="develop">
 <div class="project-feature">
   <div class="project-feature__header">
     <div class="project-feature__eyebrow">Research Tool · IMA/PMA · Python</div>
@@ -156,3 +204,59 @@ in magnetic thin film heterostructures.
     </p>
   </div>
 </div>
+</section>
+
+<script>
+(function () {
+  var tablist = document.querySelector('[data-project-tabs]');
+  if (!tablist) return;
+
+  var tabs = Array.prototype.slice.call(tablist.querySelectorAll('[role="tab"]'));
+  var panels = Array.prototype.slice.call(document.querySelectorAll('[data-project-panel]'));
+
+  function activate(tab, updateHash) {
+    tabs.forEach(function (item) {
+      var selected = item === tab;
+      item.classList.toggle('is-active', selected);
+      item.setAttribute('aria-selected', selected ? 'true' : 'false');
+      item.setAttribute('tabindex', selected ? '0' : '-1');
+    });
+
+    panels.forEach(function (panel) {
+      var selected = panel.id === tab.getAttribute('aria-controls');
+      panel.hidden = !selected;
+      panel.querySelectorAll('video').forEach(function (video) {
+        if (selected) {
+          var playAttempt = video.play();
+          if (playAttempt && playAttempt.catch) playAttempt.catch(function () {});
+        } else {
+          video.pause();
+        }
+      });
+    });
+
+    if (updateHash && window.history && window.history.replaceState) {
+      window.history.replaceState(null, '', '#' + tab.id.replace('tab-', ''));
+    }
+  }
+
+  tabs.forEach(function (tab, index) {
+    tab.addEventListener('click', function () { activate(tab, true); });
+    tab.addEventListener('keydown', function (event) {
+      var targetIndex = index;
+      if (event.key === 'ArrowRight') targetIndex = (index + 1) % tabs.length;
+      else if (event.key === 'ArrowLeft') targetIndex = (index - 1 + tabs.length) % tabs.length;
+      else if (event.key === 'Home') targetIndex = 0;
+      else if (event.key === 'End') targetIndex = tabs.length - 1;
+      else return;
+      event.preventDefault();
+      tabs[targetIndex].focus();
+      activate(tabs[targetIndex], true);
+    });
+  });
+
+  tablist.classList.add('is-ready');
+  var requested = window.location.hash === '#develop' ? tabs[1] : tabs[0];
+  activate(requested, false);
+}());
+</script>
