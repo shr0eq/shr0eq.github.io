@@ -24,7 +24,7 @@ Explore my work across fundamental spin-transport research and scientific softwa
       <h3>Magnon Transport</h3>
     </div>
     <div class="research-feature__media">
-      <video autoplay loop muted playsinline controls preload="metadata"
+      <video autoplay loop muted playsinline preload="metadata"
              poster="/assets/images/project/research/magnon-transport-coherent-poster.jpg"
              aria-label="Animation of coherent antiferromagnetic magnon transport with spin polarization parallel to the Néel vector">
         <source src="/assets/images/project/research/magnon-transport-coherent.mp4" type="video/mp4" />
@@ -51,7 +51,7 @@ Explore my work across fundamental spin-transport research and scientific softwa
       <h3>Spin–Phonon Transport</h3>
     </div>
     <div class="research-feature__media">
-      <video autoplay loop muted playsinline controls preload="metadata"
+      <video autoplay loop muted playsinline preload="metadata"
              poster="/assets/images/project/research/spin-phonon-transport-poster.jpg"
              aria-label="Animation illustrating angular-momentum transfer from electron spin to lattice vibrations">
         <source src="/assets/images/project/research/spin-phonon-transport.mp4" type="video/mp4" />
