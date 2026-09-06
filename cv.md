@@ -49,7 +49,7 @@ description: Curriculum vitae of Won-Young Choi, Ph.D. candidate at Seoul Nation
 2. F. Kammerbauer, **W.-Y. Choi**, F. Freimuth, K. Lee, F. Robert, D.-S. Han, H. J. M. Swagten, Y. Mokrousov, M. Kläui\*. Controlling the Interlayer Dzyaloshinskii–Moriya Interaction by Electrical Currents. *Nano Letters* **23**, 15, 7070–7075 (2023).
 3. **W.-Y. Choi**, W. Yoo, M.-H. Jung\*. Emergence of the topological Hall effect in a tetragonal compensated ferrimagnet Mn₂.₃Pd₀.₇Ga. *NPG Asia Materials* **13**, 79 (2021).
 4. **W.-Y. Choi†**, J. H. Jeon†, H. W. Bang, W. Yoo, S. K. Jerng, S. H. Chun\*, S. Lee\*, M.-H. Jung\*. Proximity-Induced Magnetism Enhancement Emerged in Chiral Magnet MnSi / Topological Insulator Bi₂Se₃ Bilayer. *Advanced Quantum Technologies* **4**, 2000124 (2021).
-5. **W.-Y. Choi**, H. W. Bang, S. H. Chun, S. Lee, M.-H. Jung\*. Skyrmion Phase in MnSi Thin Films Grown on Sapphire by a Conventional Sputtering. *Nanoscale Research Letters* **16**, 7 (2021).
+5. **W.-Y. Choi**, H. W. Bang, S. H. Chun, S. Lee\*, M.-H. Jung\*. Skyrmion Phase in MnSi Thin Films Grown on Sapphire by a Conventional Sputtering. *Nanoscale Research Letters* **16**, 7 (2021).
 
 See the [full publication list &rarr;]({{ '/publications/' | relative_url }})
 
@@ -67,4 +67,4 @@ See the [full publication list &rarr;]({{ '/publications/' | relative_url }})
 - **Jan. 2018** — Dean's List Award (Top 3%), Sogang University
 - **2016–2017** — Honors Scholarship ($2,100), Sogang University
 
-<p style="margin-top:24px"><a href="/assets/CV_WYC_Revised_v7.pdf?v=20260906-1" target="_blank" rel="noopener">Download full CV (PDF) &rarr;</a></p>
+<p style="margin-top:24px"><a href="/assets/CV_WYC_Revised_v7.pdf?v=20260906-2" target="_blank" rel="noopener">Download full CV (PDF) &rarr;</a></p>

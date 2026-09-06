@@ -22,7 +22,7 @@ description: Journal articles and conference presentations by Won-Young Choi on 
 9. S. Jena, **W.-Y. Choi**, J. Gardner, M. H. Jung, S. K. Srivastava, V. K. Verma, K. Amemiya, V. R. Singh\*. Evolution of bulk magnetic structure in MnSi thin film: a soft x-ray magnetic circular dichroism study. *Physica Scripta* **98**, 075927 (2023). [DOI](https://doi.org/10.1088/1402-4896/acdc5e)
 10. **W.-Y. Choi**, W. Yoo, M.-H. Jung\*. Emergence of the topological Hall effect in a tetragonal compensated ferrimagnet Mn₂.₃Pd₀.₇Ga. *NPG Asia Materials* **13**, 79 (2021). [DOI](https://doi.org/10.1038/s41427-022-00361-z)
 11. **W.-Y. Choi†**, J. H. Jeon†, H. W. Bang, W. Yoo, S. K. Jerng, S. H. Chun\*, S. Lee\*, M.-H. Jung\*. Proximity-Induced Magnetism Enhancement Emerged in Chiral Magnet MnSi / Topological Insulator Bi₂Se₃ Bilayer. *Advanced Quantum Technologies* **4**, 2000124 (2021). [DOI](https://doi.org/10.1002/qute.202000124)
-12. **W.-Y. Choi**, H. W. Bang, S. H. Chun, S. Lee, M.-H. Jung\*. Skyrmion Phase in MnSi Thin Films Grown on Sapphire by a Conventional Sputtering. *Nanoscale Research Letters* **16**, 7 (2021). [DOI](https://doi.org/10.1186/s11671-020-03462-2)
+12. **W.-Y. Choi**, H. W. Bang, S. H. Chun, S. Lee\*, M.-H. Jung\*. Skyrmion Phase in MnSi Thin Films Grown on Sapphire by a Conventional Sputtering. *Nanoscale Research Letters* **16**, 7 (2021). [DOI](https://doi.org/10.1186/s11671-020-03462-2)
 
 ### Presentations {#presentations}
 
