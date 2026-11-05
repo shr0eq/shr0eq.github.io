@@ -46,10 +46,9 @@ description: Curriculum vitae of Won-Young Choi, Ph.D. candidate at Seoul Nation
 *† co-first author, \* corresponding author*
 
 1. **W.-Y. Choi†**, J.-H. Ha†, M.-S. Jung, S. B. Kim, H.-C. Koo, O. Lee, B.-C. Min, H. Jang, A. Shahee, J.-W. Kim, M. Kläui, J.-I. Hong\*, K.-W. Kim\*, D.-S. Han\*. Magnetization switching driven by magnonic spin dissipation. *Nature Communications* **16**, 5859 (2025).
-2. F. Kammerbauer, **W.-Y. Choi**, F. Freimuth, K. Lee, F. Robert, D.-S. Han, H. J. M. Swagten, Y. Mokrousov, M. Kläui\*. Controlling the Interlayer Dzyaloshinskii–Moriya Interaction by Electrical Currents. *Nano Letters* **23**, 15, 7070–7075 (2023).
-3. **W.-Y. Choi**, W. Yoo, M.-H. Jung\*. Emergence of the topological Hall effect in a tetragonal compensated ferrimagnet Mn₂.₃Pd₀.₇Ga. *NPG Asia Materials* **13**, 79 (2021).
-4. **W.-Y. Choi†**, J. H. Jeon†, H. W. Bang, W. Yoo, S. K. Jerng, S. H. Chun\*, S. Lee\*, M.-H. Jung\*. Proximity-Induced Magnetism Enhancement Emerged in Chiral Magnet MnSi / Topological Insulator Bi₂Se₃ Bilayer. *Advanced Quantum Technologies* **4**, 2000124 (2021).
-5. **W.-Y. Choi**, H. W. Bang, S. H. Chun, S. Lee\*, M.-H. Jung\*. Skyrmion Phase in MnSi Thin Films Grown on Sapphire by a Conventional Sputtering. *Nanoscale Research Letters* **16**, 7 (2021).
+2. **W.-Y. Choi**, W. Yoo, M.-H. Jung\*. Emergence of the topological Hall effect in a tetragonal compensated ferrimagnet Mn₂.₃Pd₀.₇Ga. *NPG Asia Materials* **13**, 79 (2021).
+3. **W.-Y. Choi†**, J. H. Jeon†, H. W. Bang, W. Yoo, S. K. Jerng, S. H. Chun\*, S. Lee\*, M.-H. Jung\*. Proximity-Induced Magnetism Enhancement Emerged in Chiral Magnet MnSi / Topological Insulator Bi₂Se₃ Bilayer. *Advanced Quantum Technologies* **4**, 2000124 (2021).
+4. **W.-Y. Choi**, H. W. Bang, S. H. Chun, S. Lee\*, M.-H. Jung\*. Skyrmion Phase in MnSi Thin Films Grown on Sapphire by a Conventional Sputtering. *Nanoscale Research Letters* **16**, 7 (2021).
 
 See the [full publication list &rarr;]({{ '/publications/' | relative_url }})
 
