@@ -27,6 +27,7 @@ description: Journal articles and conference presentations by Won-Young Choi on 
 
 ### Presentations {#presentations}
 
+1. **W.-Y. Choi**. Magnetization Control via Magnon-Mediated Angular Momentum Interconversion. *Ewha Womans University*, November 24, 2026 — **Invited Talk**.
 1. **W.-Y. Choi**, et al. Self-generated Spin-orbit Torques Driven by Magnonic Spin Dissipation in Antiferromagnet/Ferromagnet Bilayer. *2025 70th MMM Annual Conference* — **Invited Talk**.
 2. **W.-Y. Choi**, et al. Magnonic Spin Dissipation Driven Anisotropic Spin Torque in Easy-Axis Antiferromagnet/Ferromagnet Bilayer. *2025 KMS Summer Conference* — poster.
 3. **W.-Y. Choi**, et al. Spin-orbit torque by magnon dissipation. *2023 MML Conference* — poster.
