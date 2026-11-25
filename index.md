@@ -18,6 +18,7 @@ and magnonic effects in magnetic thin film heterostructures.
 ## News
 
 <ul class="news-summary">
+  <li><span class="n-date">2026-11-24</span><a class="n-title" href="{{ '/news/#n-2026-11-24' | relative_url }}">Invited Seminar at Ewha Womans University</a></li>
   <li><span class="n-date">2026-08-20</span><a class="n-title" href="{{ '/news/#n-2026-08-20' | relative_url }}">TopDock v0.1 for macOS Released</a></li>
   <li><span class="n-date">2026-07-19</span><a class="n-title" href="{{ '/news/#n-2026-07-19' | relative_url }}">Figure Creator v7 for macOS Released</a></li>
   <li><span class="n-date">2026-07-01</span><a class="n-title" href="{{ '/news/#n-2026-07-01' | relative_url }}">STAR Outstanding Graduate Student Award, KMS 2026</a></li>
