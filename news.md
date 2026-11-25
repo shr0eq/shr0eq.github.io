@@ -11,7 +11,11 @@ description: Research news, awards, conference activities, software releases, an
   <span class="news-date">2026-11-24</span>
   <h3>Invited Seminar at Ewha Womans University</h3>
   <div class="figure-row">
-    <figure><img src="{{ '/assets/images/news/2026-11-24-ewha-seminar.png' | relative_url }}" alt="Title slide for Won-Young Choi’s invited seminar at Ewha Womans University on November 24, 2026" loading="lazy" width="2086" height="1164" /></figure>
+    <figure style="width: 100%; max-width: 480px;">
+      <a href="{{ '/assets/images/news/2026-11-24-ewha-seminar.webp' | relative_url }}" aria-label="Open full-size Ewha seminar slide">
+        <img src="{{ '/assets/images/news/2026-11-24-ewha-seminar.webp' | relative_url }}" alt="Title slide for Won-Young Choi’s invited seminar at Ewha Womans University on November 24, 2026" loading="lazy" width="2086" height="1164" style="height: auto;" />
+      </a>
+    </figure>
   </div>
   <p>I gave an invited seminar titled <em>“Magnetization Control via Magnon-Mediated Angular Momentum Interconversion”</em> at Ewha Womans University, hosted by Prof. Dae-Yun Kim’s research group in the Department of Physics. I discussed how magnons mediate the exchange of angular momentum and how this process can be used to control magnetization.</p>
 </div>
